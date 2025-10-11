@@ -6,6 +6,8 @@ Caso a média necessária seja **maior que 10**, é informado o **CR máximo pos
 ## Como usar?
 Ao rodar, insira o seu CR atual (referente ao último período cursado), em seguida informe o período que você está cursando atualmente (no qual está matriculado) e, por fim, o CR que deseja alcançar ao concluir as disciplinas do período em andamento
 
+### Clonagem
+Use `git clone https://github.com/leticialevleitao/calculadora_cr.git`
 ## Parâmetros
 
 | Parâmetro | Tipo  | Descrição |
